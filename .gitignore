@@ -1,0 +1,3 @@
+venv/
+listingScrape/listingScrape/__pycache__
+listingScrape/listingScrape/spiders/__pycache__
