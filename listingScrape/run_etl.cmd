@@ -1,0 +1,1 @@
+python .\etl_script.py .\amphibians.json
